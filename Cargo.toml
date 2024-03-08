@@ -1,0 +1,7 @@
+[package]
+name = "myos"
+version = "0.1.0"
+authors = ["Nadir Mustafa"]
+edition = "2021"
+
+[dependencies]
